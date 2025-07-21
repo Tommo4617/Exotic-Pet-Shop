@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|c:\\users\\abbie thompson\\desktop\\personal projects\\pet shop project\\exotic pet shop manager\\pet shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|solutionrelative:exotic pet shop manager\\pet shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|c:\\users\\abbie thompson\\desktop\\personal projects\\pet shop project\\exotic pet shop manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|solutionrelative:exotic pet shop manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|c:\\users\\abbie thompson\\desktop\\personal projects\\pet shop project\\exotic pet shop manager\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|solutionrelative:exotic pet shop manager\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{350f9856-a72b-11d2-8ad0-00c04f79e479}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca4b8ff5-bfc7-11d2-9929-00c04f68fdaf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pet Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Pet Shop.cs",
+              "RelativeDocumentMoniker": "Exotic pet shop manager\\Pet Shop.cs",
+              "ToolTip": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Pet Shop.cs",
+              "RelativeToolTip": "Exotic pet shop manager\\Pet Shop.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:55:33.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Program.cs",
+              "RelativeDocumentMoniker": "Exotic pet shop manager\\Program.cs",
+              "ToolTip": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Program.cs",
+              "RelativeToolTip": "Exotic pet shop manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:55:03.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Pet.cs",
+              "RelativeDocumentMoniker": "Exotic pet shop manager\\Pet.cs",
+              "ToolTip": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Pet.cs",
+              "RelativeToolTip": "Exotic pet shop manager\\Pet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:54:50.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
