@@ -1,0 +1,15 @@
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\bin\Debug\net9.0\Exotic pet shop manager.exe
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\bin\Debug\net9.0\Exotic pet shop manager.deps.json
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\bin\Debug\net9.0\Exotic pet shop manager.runtimeconfig.json
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\bin\Debug\net9.0\Exotic pet shop manager.dll
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\bin\Debug\net9.0\Exotic pet shop manager.pdb
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\Exotic pet shop manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\Exotic pet shop manager.AssemblyInfoInputs.cache
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\Exotic pet shop manager.AssemblyInfo.cs
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\Exotic pet shop manager.csproj.CoreCompileInputs.cache
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\Exotic pet shop manager.sourcelink.json
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\Exotic pet shop manager.dll
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\refint\Exotic pet shop manager.dll
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\Exotic pet shop manager.pdb
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\Exotic pet shop manager.genruntimeconfig.cache
+C:\Users\Abbie Thompson\Desktop\Personal Projects\Pet shop project\Exotic pet shop manager\obj\Debug\net9.0\ref\Exotic pet shop manager.dll

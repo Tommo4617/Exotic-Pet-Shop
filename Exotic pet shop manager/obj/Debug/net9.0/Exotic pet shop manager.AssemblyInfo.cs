@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exotic pet shop manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e68cbc3285e1df5ebb3eecea3f43fc989700a8db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f430d6761cd69d0b53f7803b860a844debecee9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exotic pet shop manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exotic pet shop manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
