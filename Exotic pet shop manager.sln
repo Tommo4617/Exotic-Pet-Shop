@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exotic pet shop manager", "Exotic pet shop manager\Exotic pet shop manager.csproj", "{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA071266-F757-4619-9C8E-6229EDABC785}
+	EndGlobalSection
+EndGlobal
