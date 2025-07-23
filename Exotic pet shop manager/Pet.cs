@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Exotic_pet_shop_manager
 {
-    internal class Pet
+    internal abstract class Pet
     {
-        string name;
-        string species;
-        string breed;
-        int age;
-        int price;
+        protected string name;
+        protected string species;
+        protected string breed;
+        protected int age;
+        protected int price;
 
         public Pet(string name, string species, string breed, int age, int price)
         {
@@ -28,10 +28,8 @@ namespace Exotic_pet_shop_manager
             return $"Name: {name}, Species: {species}, Breed: {breed}, Age: {age} years, Price: ${price}";
         }
 
-        public string GetSpeciesInfo()
-        {
-            return $"This pet is available at the store";
-        }
+        public abstract string GetSpeciesInfo();
+        
 
     }
 }
