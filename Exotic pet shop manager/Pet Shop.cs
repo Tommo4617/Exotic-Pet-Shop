@@ -62,6 +62,16 @@ namespace Exotic_pet_shop_manager
 
         }
 
+        public void addNewPet(Pet pet)
+        {
+            if (pets == null)
+            {
+                pets = new List<Pet>();
+            }
+            pets.Add(pet);
+            Console.WriteLine("New pet added successfully!");
+        }
+
 
     }
 }

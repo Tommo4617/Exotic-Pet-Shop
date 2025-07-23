@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|c:\\users\\abbie thompson\\desktop\\personal projects\\pet shop project\\exotic pet shop manager\\pet shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|solutionrelative:exotic pet shop manager\\pet shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|c:\\users\\abbie thompson\\desktop\\personal projects\\pet shop project\\exotic pet shop manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|solutionrelative:exotic pet shop manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|c:\\users\\abbie thompson\\desktop\\personal projects\\pet shop project\\exotic pet shop manager\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|solutionrelative:exotic pet shop manager\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|c:\\users\\abbie thompson\\desktop\\personal projects\\pet shop project\\exotic pet shop manager\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|solutionrelative:exotic pet shop manager\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|c:\\users\\abbie thompson\\desktop\\personal projects\\pet shop project\\exotic pet shop manager\\pet shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF6E0B9-1E30-4025-9AAF-870EEC13471F}|Exotic pet shop manager\\Exotic pet shop manager.csproj|solutionrelative:exotic pet shop manager\\pet shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,26 +50,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Snake.cs",
+              "RelativeDocumentMoniker": "Exotic pet shop manager\\Snake.cs",
+              "ToolTip": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Snake.cs",
+              "RelativeToolTip": "Exotic pet shop manager\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:31:15.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Pet Shop.cs",
               "DocumentMoniker": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Pet Shop.cs",
               "RelativeDocumentMoniker": "Exotic pet shop manager\\Pet Shop.cs",
               "ToolTip": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Pet Shop.cs",
               "RelativeToolTip": "Exotic pet shop manager\\Pet Shop.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwDsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T22:55:33.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Program.cs",
               "RelativeDocumentMoniker": "Exotic pet shop manager\\Program.cs",
               "ToolTip": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Program.cs",
               "RelativeToolTip": "Exotic pet shop manager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T22:55:03.268Z",
               "EditorCaption": ""
@@ -78,7 +95,7 @@
               "RelativeDocumentMoniker": "Exotic pet shop manager\\Pet.cs",
               "ToolTip": "C:\\Users\\Abbie Thompson\\Desktop\\Personal Projects\\Pet shop project\\Exotic pet shop manager\\Pet.cs",
               "RelativeToolTip": "Exotic pet shop manager\\Pet.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T22:54:50.496Z",
               "EditorCaption": ""
